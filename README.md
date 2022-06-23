@@ -13,3 +13,4 @@
 |年份|1978-1989|1990-2001|2002-2013|2014-2025|2026-2037|
 |Big Five Personality|Openness|Extraversion|Conscientiousness|Neuroticism|Agreeableness|
 |王一大五类|7.3|7.0|7.0|4.2|7.8|
+|岗位|研发岗|赚钱岗|行政岗|监督管理岗|普通岗|
