@@ -14,4 +14,4 @@
 |Big Five Personality|Openness|Extraversion|Conscientiousness|Neuroticism|Agreeableness|
 |王一大五类|86|95|34|71|49|
 |岗位|研发岗|赚钱岗|行政岗|监督管理岗|普通岗|
-|政治|左|右|兔兔|神神|自干五|
+|政治|左|右|兔|神|自|
